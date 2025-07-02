@@ -1,0 +1,16 @@
+#custom-paragraph {
+  color: #1E90FF; /* HEX ფერი */
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.styled-paragraph {
+  font-style: italic;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+p {
+  color: #8A2BE2; /* HEX ფერი */
+  line-height: 1.6;
+}
